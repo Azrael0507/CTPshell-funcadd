@@ -8,6 +8,10 @@ CTPshell脚本更新文档
 
 	2、增加numactl的组件cpuid与nodeid绑定支持
 
+	2、调整ssh参数，使其在网络延迟下更加稳定
+
+	2、增加showall.sh --sp功能，用于检查当次新合约上市情况
+
 
 一、pigz功能更新
 
